@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on Blog on IT</title>
-    <link>https://zakicisco.github.io/series/</link>
+    <link>https://zekeria.com/series/</link>
     <description>Recent content in Series on Blog on IT</description>
     <image>
       <title>Blog on IT</title>
-      <url>https://zakicisco.github.io/img/First-Post.png</url>
-      <link>https://zakicisco.github.io/img/First-Post.png</link>
+      <url>https://zekeria.com/img/First-Post.png</url>
+      <link>https://zekeria.com/img/First-Post.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zakicisco.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zekeria.com/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

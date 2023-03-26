@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Blog on IT</title>
-    <link>https://zakicisco.github.io/tags/</link>
+    <link>https://zekeria.com/tags/</link>
     <description>Recent content in Tags on Blog on IT</description>
     <image>
       <title>Blog on IT</title>
-      <url>https://zakicisco.github.io/img/First-Post.png</url>
-      <link>https://zakicisco.github.io/img/First-Post.png</link>
+      <url>https://zekeria.com/img/First-Post.png</url>
+      <link>https://zekeria.com/img/First-Post.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Mar 2023 01:33:29 +0300</lastBuildDate><atom:link href="https://zakicisco.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2023 01:33:29 +0300</lastBuildDate><atom:link href="https://zekeria.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PaperMod</title>
-      <link>https://zakicisco.github.io/tags/papermod/</link>
+      <link>https://zekeria.com/tags/papermod/</link>
       <pubDate>Sun, 26 Mar 2023 01:33:29 +0300</pubDate>
       
-      <guid>https://zakicisco.github.io/tags/papermod/</guid>
+      <guid>https://zekeria.com/tags/papermod/</guid>
       <description></description>
     </item>
     

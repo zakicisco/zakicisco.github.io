@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Blog on IT</title>
-    <link>https://zakicisco.github.io/posts/</link>
+    <link>https://zekeria.com/posts/</link>
     <description>Recent content in Posts on Blog on IT</description>
     <image>
       <title>Blog on IT</title>
-      <url>https://zakicisco.github.io/img/First-Post.png</url>
-      <link>https://zakicisco.github.io/img/First-Post.png</link>
+      <url>https://zekeria.com/img/First-Post.png</url>
+      <link>https://zekeria.com/img/First-Post.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Mar 2023 01:33:29 +0300</lastBuildDate><atom:link href="https://zakicisco.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2023 01:33:29 +0300</lastBuildDate><atom:link href="https://zekeria.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome Post</title>
-      <link>https://zakicisco.github.io/posts/welcome-post/</link>
+      <link>https://zekeria.com/posts/welcome-post/</link>
       <pubDate>Sun, 26 Mar 2023 01:33:29 +0300</pubDate>
       
-      <guid>https://zakicisco.github.io/posts/welcome-post/</guid>
+      <guid>https://zekeria.com/posts/welcome-post/</guid>
       <description>Welcome to Tropical Blog! Hey everyone, welcome to my blog! My name is Zekeria Sammantar, and I&amp;rsquo;m an IT adventurer. I&amp;rsquo;ve been working in the IT world for 11 years now, and let me tell you, it&amp;rsquo;s been a wild ride. From dealing with angry users to battling stubborn code, I&amp;rsquo;ve seen it all. But hey, it&amp;rsquo;s all part of the fun, right?
 So why &amp;ldquo;Tropical Blog,&amp;rdquo; you might ask? Well, as much as I love tech, I also love a good beach.</description>
     </item>
